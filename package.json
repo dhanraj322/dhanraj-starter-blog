@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "dhanraj-starter-blog",
   "private": true,
   "description": "A starter for a blog powered by Gatsby and Markdown",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Dhanraj Jamdade <dj@gmail.com>",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
@@ -42,7 +42,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "https://github.com/dhanraj322/dhanraj-starter-blog.git"
   },
   "scripts": {
     "build": "gatsby build",
