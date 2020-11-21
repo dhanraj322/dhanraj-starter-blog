@@ -2,13 +2,13 @@ module.exports = {
   siteMetadata: {
     title: `Starter Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`
+      name: `Dhanraj`,
+      summary: ``
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://github.com/dhanraj322/dhanraj-starter-blog.git`,
     social: {
-      twitter: `kylemathews`
+      twitter: `__dhanraj__`
     }
   },
   plugins: [
